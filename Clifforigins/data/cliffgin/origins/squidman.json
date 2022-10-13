@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:aqua_affinity"
+	],
+	"icon": "minecraft:glow_squid_spawn_egg",
+	"order": 10,
+	"impact": 0,
+	"name": "Cephilid",
+	"description": "Native to the vacuum of space, Voidwalkers are a recent addition to Earth society."
+}

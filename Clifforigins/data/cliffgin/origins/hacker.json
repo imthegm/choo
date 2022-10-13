@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:translucent"
+	],
+	"icon": "computercraft:computer_advanced",
+	"order": 10,
+	"impact": 0,
+	"name": "Hacker",
+	"description": "Native to the vacuum of space, Voidwalkers are a recent addition to Earth society."
+}

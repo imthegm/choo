@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "enabled": true,
+  "origins": [
+    "origins-classes:cleric",
+    "origins-classes:merchant",
+    "cliffgin:hacker"
+  ],
+  "name": "Job"
+}

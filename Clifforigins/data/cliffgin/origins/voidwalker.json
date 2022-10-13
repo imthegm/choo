@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:translucent"
+	],
+	"icon": "minecraft:gold_ingot",
+	"order": 4,
+	"impact": 0,
+	"name": "Voidwalker",
+	"description": "Native to the vacuum of space, Voidwalkers are a recent addition to Earth society."
+}

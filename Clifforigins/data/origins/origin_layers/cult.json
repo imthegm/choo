@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "enabled": true,
+  "origins": [
+    "cliffgin:unitiated"
+  ],
+  "name": "Cult",
+  "default_origin": "cliffgin:unitiated",
+  "allow_random": false
+}

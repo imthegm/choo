@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "enabled": true,
+  "origins": [
+    "cliffgin:voidwalker",
+    "cliffgin:squidman",
+    "origins:avian",
+    "origins:arachnid"
+  ],
+  "name": "Bloodline",
+  "allow_random": true
+}
