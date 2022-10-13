@@ -7,7 +7,7 @@ The Cliffhouse Origin Overhaul is a comprehensive overhaul project that aims to 
 
 Currently planned replacement features include:
 
-- Origins replaced by Bloodlines; new Sci-Fi bloodlines replacing most of the default options from Origins.
+- Origins replaced by Species; new Sci-Fi species replacing most of the default options from Origins.
 
 - Classes replaced by Jobs; new Sci-Fi and Fantasy Jobs replacing most of the default options from Origins: Classes.
 
