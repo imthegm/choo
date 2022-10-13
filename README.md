@@ -1,5 +1,4 @@
-# choo
-Cliffhouse Origin Overhaul
+#Cliffhouse Origin Overhaul
 
 
 The Cliffhouse Origin Overhaul is a comprehensive overhaul project that aims to replace the Origins and Classes added by Origins (Forge) and Origins: Classes (Forge) with a new array of Sci-Fantasy options inspired by games like FTL, Endless Space, and Destiny.
