@@ -43,14 +43,14 @@ Update 0.1.0 Summary
 - Mechanic
 - Miner
 
-##New! "Guilds"
+## New! "Guilds"
 Guilds give players a starting kit; additional bonuses will be available in future updates.
 - Citizen (No Kit)
 - White Hat's Guild (Portable Computer, 32 x Redstone Dust)
 - College of Bards (Compass, 4 x Enchanted Book, 8 x Writable Book)
 - Enforcer's Guild (Spear, 32 x Bread, 3x Map)
 
-##New! "Cults"
+## New! "Cults"
 Cults are currently in a placeholder status while additional powers are developed for them. Each cult provides a different player particle effect at this time.
 - Lunites (Portal Particles)
 - Cult of Ra (Flame Particles)
