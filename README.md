@@ -25,3 +25,33 @@ To install, unpack the zip and move the folder inside the "Datapacks" folder for
 
 
 Requires Origins (Forge) and Origins Classes (Forge) installed prior to use.
+
+
+
+Update 0.1.0 Summary
+
+"Origins" replaced with "Species"
+- Terrans (Humans)
+- Termians
+- Cephilids
+- Eldarin
+
+"Classes" replaced with "Jobs"
+- Cleric
+- Merchant
+- Chef
+- Mechanic
+- Miner
+
+##New! "Guilds"
+Guilds give players a starting kit; additional bonuses will be available in future updates.
+- Citizen (No Kit)
+- White Hat's Guild (Portable Computer, 32 x Redstone Dust)
+- College of Bards (Compass, 4 x Enchanted Book, 8 x Writable Book)
+- Enforcer's Guild (Spear, 32 x Bread, 3x Map)
+
+##New! "Cults"
+Cults are currently in a placeholder status while additional powers are developed for them. Each cult provides a different player particle effect at this time.
+- Lunites (Portal Particles)
+- Cult of Ra (Flame Particles)
+- The Shadow Court (Mycelium Particles)
