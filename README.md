@@ -28,7 +28,8 @@ Requires Origins (Forge) and Origins Classes (Forge) installed prior to use.
 
 
 
-Update 0.1.0 Summary
+## Update 0.1.0 Summary
+This is the first functional version of the datapack. More Species, Jobs, Guilds, Cults, and additional powers for existing options are planned.
 
 "Origins" replaced with "Species"
 - Terrans (Humans)
