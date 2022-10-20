@@ -53,6 +53,7 @@ Guilds give players a starting kit; additional bonuses will be available in futu
 
 ## New! "Cults"
 Cults are currently in a placeholder status while additional powers are developed for them. Each cult provides a different player particle effect at this time.
+- Citizen (No Effect)
 - Lunites (Portal Particles)
 - Cult of Ra (Flame Particles)
 - The Shadow Court (Mycelium Particles)
